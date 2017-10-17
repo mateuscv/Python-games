@@ -1,0 +1,40 @@
+# LICENÇA PÚBLICA DE USO DE SOFTWARE GRATUITO "TRUCO PYTHON"
+
+> Versão 1.0, Setembro 2017
+
+> POR MATEUS CAPPELLARI VIEIRA
+
+> POR DAVI TEIXEIRA
+
+Todos tem expressa permissão de copiar e compartilhar o presente documento, por quaisquer meios desejados.
+
+> LICENÇA DE USO DO PACOTE DE SOFTWARE GRATUITO "TRUCO PYTHON"
+> TERMOS E CONDIÇÕES DE USO, CÓPIA, DISTRIBUIÇÃO E MODIFICAÇÃO DO SOFTWARE INCLUSO:
+
+1. É permitido e encorajado o uso completo e ilimitado do software e depêndencias inclusos nesse pacote.
+   
+   O uso do software e dependências inclui:
+	1a. Utilizar um interpretador Python para rodar o arquivo "TrucoPython.py" incluso.
+	1b. Visualizar o código, imagens, e qualquer dado dos arquivos inclusos.
+	1c. Armazenar o pacote em qualquer ambiente de storage.
+	1d. Modificar o diretório das pastas e arquivos inclusos, bem como renomeá-los.
+	1e. Outros usos diversos, perante termos abaixo descritos.
+
+   Os termos e condições de uso do arquivo "graphics.py" são de propriedade do criador Zelle. A biblioteca segue a licensa GPL.
+   O uso do software e dependências, nesses termos, não inclui a distribuição comercial.
+
+2. Toda e qualquer cópia do pacote é permitida, desde que contenha os créditos originais e o presente arquivo de licença.
+
+3. A distribuição do software é permitida e encorajada, desde que seja feita de forma GRATUITA para o usuário e contenha todos os arquivos originais, inalterados. Por favor, não comercialize o software.
+
+4. De forma alguma modifique o código-fonte do software, a menos que permissão expressa por escrito tenha lhe sido dada por um dos autores.
+	4a. Se o fizer, inclua prova, em qualquer formato, da permissão na pasta "licensing".
+	4b. Esse termo não se aplica a eventuais medidas de compatibilidade previstas no arquivo LEIA-ME.txt, no diretório principal.
+	4c. Esse termo não se aplica a professores e orientadores dos criadores do software. :)
+
+5. Todo conteúdo presente no pacote não possui absolutamente NENHUMA garantia.
+
+Ao utilizar o software, você concorda com os termos aqui descritos.
+
+Esta licença não tem base legal.
+Apoie os criadores de software gratuito.

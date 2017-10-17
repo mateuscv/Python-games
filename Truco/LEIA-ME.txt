@@ -1,0 +1,35 @@
+﻿REQUISITOS PARA RODAR:
+
+
+
+- INTERPRETADOR PYTHON 2;
+
+- PYGAME (PARA PYTHON 2) INSTALADO; *
+
+ - SISTEMA QUE RODE IMAGENS .PNG PELA BIBLIOTECA "graphics.py". **
+
+
+-------------------------------------------------------------
+
+
+* A INSTALAÇÃO DO PYGAME NO LINUX PODE SER FEITA PELO SEGUINTE COMANDO DO TERMINAL:
+
+
+
+sudo apt-get install python-pygame
+
+
+
+
+** É POSSÍVEL RODAR O JOGO EM MODO DE COMPATIBILIDADE SE SUA MÁQUINA NÃO CHEGAR A ESSE REQUISITO. 
+ABRA O ARQUIVO TrucoPython.py EM UM EDITOR DE TEXTO E SIGA AS RÁPIDAS INSTRUÇÕES NA LINHA 24.
+
+
+
+-------------------------------------------------------------
+
+PARA RODAR O JOGO, DIGITE A SEGUINTE LINHA NO TERMINAL, QUANDO O MESMO ESTIVER NA PASTA DO JOGO:
+
+
+
+python TrucoPython.py
