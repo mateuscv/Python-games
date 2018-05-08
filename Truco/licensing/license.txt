@@ -27,12 +27,7 @@ Todos tem expressa permissão de copiar e compartilhar o presente documento, por
 
 3. A distribuição do software é permitida e encorajada, desde que seja feita de forma GRATUITA para o usuário e contenha todos os arquivos originais, inalterados. Por favor, não comercialize o software.
 
-4. De forma alguma modifique o código-fonte do software, a menos que permissão expressa por escrito tenha lhe sido dada por um dos autores.
-	4a. Se o fizer, inclua prova, em qualquer formato, da permissão na pasta "licensing".
-	4b. Esse termo não se aplica a eventuais medidas de compatibilidade previstas no arquivo LEIA-ME.txt, no diretório principal.
-	4c. Esse termo não se aplica a professores e orientadores dos criadores do software. :)
-
-5. Todo conteúdo presente no pacote não possui absolutamente NENHUMA garantia.
+4. Todo conteúdo presente no pacote não possui absolutamente NENHUMA garantia.
 
 Ao utilizar o software, você concorda com os termos aqui descritos.
 
