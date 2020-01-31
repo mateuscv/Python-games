@@ -11,6 +11,8 @@ Todos tem expressa permissão de copiar e compartilhar o presente documento, por
 > LICENÇA DE USO DO PACOTE DE SOFTWARE GRATUITO "TRUCO PYTHON"
 > TERMOS E CONDIÇÕES DE USO, CÓPIA, DISTRIBUIÇÃO E MODIFICAÇÃO DO SOFTWARE INCLUSO:
 
+0. O único repositório oficial da versão original deste software encontra-se no endereço https://github.com/mateuscv/truco-original.
+
 1. É permitido e encorajado o uso completo e ilimitado do software e depêndencias inclusos nesse pacote.
    
    O uso do software e dependências inclui:
