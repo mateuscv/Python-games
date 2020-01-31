@@ -17,7 +17,7 @@ Todos tem expressa permissão de copiar e compartilhar o presente documento, por
 	1a. Utilizar um interpretador Python para rodar o arquivo "TrucoPython.py" incluso.
 	1b. Visualizar o código, imagens, e qualquer dado dos arquivos inclusos.
 	1c. Armazenar o pacote em qualquer ambiente de storage.
-	1d. Modificar o diretório das pastas e arquivos inclusos, bem como renomeá-los.
+	1d. Modificar o diretório das pastas e arquivos inclusos, bem como editá-los.
 	1e. Outros usos diversos, perante termos abaixo descritos.
 
    Os termos e condições de uso do arquivo "graphics.py" são de propriedade do criador Zelle. A biblioteca segue a licensa GPL.
