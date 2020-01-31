@@ -25,9 +25,11 @@ Todos tem expressa permissão de copiar e compartilhar o presente documento, por
 
 2. Toda e qualquer cópia do pacote é permitida, desde que contenha os créditos originais e o presente arquivo de licença.
 
-3. A distribuição do software é permitida e encorajada, desde que seja feita de forma GRATUITA para o usuário e contenha todos os arquivos originais, inalterados. Por favor, não comercialize o software.
+3. Toda e qualquer modificação do conteúdo é permitida, desde que o modificador explicitamente assuma sua autoria e responsabilidade, porém, ainda deve-se observar o item 2.
 
-4. Todo conteúdo presente no pacote não possui absolutamente NENHUMA garantia.
+4. A distribuição do software é permitida e encorajada, desde que seja feita de forma GRATUITA para o usuário. Por favor, não comercialize o software.
+
+5. Todo conteúdo presente no pacote não possui absolutamente NENHUMA garantia.
 
 Ao utilizar o software, você concorda com os termos aqui descritos.
 
